@@ -9,4 +9,4 @@ Described in following post:
 * Timeline supplychain
 
 ## The design:
-![Uploading pre.png…]()
+https://github.com/vow95/ChainTech-flutter-frontend/blob/main/assets/pre.png

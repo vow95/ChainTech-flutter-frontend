@@ -3,8 +3,10 @@
 The UI Challenge written in flutter
 
 Described in following post:
-* [Parallax effect in PageView](https://marcinszalek.pl/flutter/tickets-challenge-parallax/)
-* [Bottom sheet transition](https://marcinszalek.pl/flutter/tickets-advanced-transitions/)
+* Parallax effect in PageView 
+* Bottom sheet transition
+* QR Code scanner and generator
+* Timeline supplychain
 
 ## The design:
 ![Uploading pre.png…]()
